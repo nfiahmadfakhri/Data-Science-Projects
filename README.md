@@ -8,3 +8,4 @@ The datasets contain both numerical and categorical variables, and all variables
 
 
 <img src="projects/Top 10 Factors Affecting Credit Card Total Spending.png?raw=true"/>
+
